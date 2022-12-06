@@ -1,0 +1,94 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 100vh;
+    /* background-color: hsl(217, 54%, 11%); */
+}
+h1 {
+    color: hsla(0, 0%, 100%, 0.925);
+    margin-top: 0;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+h1:hover {
+    cursor: pointer;
+    color: hsl(178, 100%, 50%);
+}
+
+p{
+    font-size: 18px;
+    color: hsl(215, 51%, 70%);
+}
+
+.main-section {
+    padding: 30px;
+    width: 400px;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 20px;
+    font-family: Outfit;
+
+}
+.image-section{
+    
+    width: 100%;
+    
+}
+
+.image-section img {
+    border-radius: 10px;
+    
+    width: 100%;
+}
+
+.image-section:hover {
+    cursor: pointer;
+    color: hsl(178, 100%, 50%);
+}
+
+.text-section {
+    width: 100%;
+    padding: 20px 0;
+}
+
+.inline-para {
+    display: flex;
+    justify-content: space-between;
+}
+
+.p1 {
+    font-weight: 600;
+    color: hsl(178, 100%, 50%);
+}
+
+
+
+hr {
+    border-top: 50px ; 
+}
+
+.profile-section {
+    display: flex;
+    width: 100%;
+    gap: 10px;
+    align-items: center;
+}
+
+.profile-image img{
+    
+    width: 40px;
+    border: 1px solid #fff;
+    border-radius: 100%;
+}
+
+span {
+    color: hsla(0, 0%, 100%, 0.925);
+}
+
+span:hover {
+    cursor: pointer;
+    color: hsl(178, 100%, 50%);
+}
