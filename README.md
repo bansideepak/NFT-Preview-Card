@@ -2,7 +2,7 @@
 
 #### *NFT Preview Card using HTML and CSS !  :purple_heart:*
 
-### [click me !]()
+### [click me !](https://nft-preview-card-mu-seven.vercel.app/)
 
 <h3 align="center">
   DESKTOP VIEW
